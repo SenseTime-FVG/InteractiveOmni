@@ -1,0 +1,14 @@
+transformers >= 4.51
+decord 
+librosa 
+onnxruntime
+einops
+diffusers
+torchaudio
+Pillow
+torchvision
+omegaconf
+scipy
+timm
+numpy
+flash_attn
