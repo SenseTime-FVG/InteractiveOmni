@@ -41,7 +41,7 @@ This is the schematic diagram for multi-turn audio-visual interaction.
 ## Quickstart
 ### Get the Code
 ```bash
-git clone https://github.com/OpenSenseNova/InteractiveOmni.git
+git clone https://github.com/SenseTime-FVG/InteractiveOmni.git
 cd InteractiveOmni
 pip install -r requirements.txt
 ```
